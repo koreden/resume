@@ -1,0 +1,35 @@
+/*Normalizing */
+body,div,h1,h2 {margin:0; padding:0}
+/*Styling */
+body{font-family: arial, helvetica; background-color:white;min-width: 960px; width:70%;margin: 0 10px 20px 10px; color:#777;}
+h1{border-bottom: 5px solid #eee;padding: 5px 0; margin: 5px;font-weight: normal;font-size: 100%;}
+h1 p{ float: right;font-size: 12px; margin:10px; height:15px}
+h2{margin:5px; padding:5px; font-weight: normal; font-size: 100%}
+a{text-decoration:none}
+p{margin:10px; font-size: 12px;}
+ul{list-style: none; font-size: 12px;}
+.column {width: 31%; margin:0 10px; float:left;}
+.column h2 {text-transform: uppercase; border-bottom: 1px solid #eee; font-size: 11px; }
+.progress {font-size: 10px; font-family: arial; color:#777; margin:5px; clear:both; min-width: 303px;}
+.progress .on {font-size:9px; line-height: 5px; float:left; margin: 5px 10px 10px 5px; min-width: 100px; text-align: right;}
+.progress .bar {min-width: 30px; font-size: 4px; line-height: 4px; display:block; float:left; margin: 5px; margin-right: -3px; overflow:hidden; }
+.progress .bar.one {color: #A4C8DD}
+
+h1.name{
+
+}
+div.main{
+
+}
+.triangle {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 45px 60px 45px;
+    border-color: transparent transparent #000 transparent;
+}
+
+
+
+
